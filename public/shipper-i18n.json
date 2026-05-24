@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "source": "en",
+  "languages": [],
+  "translations": {},
+  "pendingTranslations": {
+    "Play": "Play",
+    "Pause": "Pause"
+  },
+  "preservedKeys": [],
+  "preservedStore": {}
+}
