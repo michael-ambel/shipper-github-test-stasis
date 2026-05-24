@@ -1,3 +1,4 @@
+// pull-sync test marker — protected file, must be SKIPPED by the pull guard
 import path from "path";
 import tailwindcss from "@tailwindcss/vite";
 import react from "@vitejs/plugin-react";

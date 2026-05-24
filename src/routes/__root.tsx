@@ -1,8 +1,10 @@
-import { createRootRoute, Link, Outlet } from "@tanstack/react-router";
+import { createRootRoute, Outlet } from "@tanstack/react-router";
+import { StasisPullBadge } from "../components/StasisPullBadge";
 
 const RootLayout = () => (
   <>
     <Outlet />
+    <StasisPullBadge />
   </>
 );
 
